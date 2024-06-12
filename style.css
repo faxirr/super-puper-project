@@ -1,0 +1,73 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-image: url('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+  }
+  
+  header img {
+    display: block;
+    width: 100px;
+    height: auto;
+    margin: 0 auto; 
+  }
+  
+  h1 {
+    color: #000000;
+    text-align: center;
+    font-family: Times New Roman, serif;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+  
+  h2 {
+    text-align: center;
+    font-family: Times New Roman, serif;
+    color: #000000;
+  }
+  
+  footer {
+    background-image: url('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+  }
+
+  body {
+    background-color: #ffe2f2;
+  } 
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #ffffff; 
+  }
+  
+  nav ul li a:hover {
+    color: #007bff;
+  }
